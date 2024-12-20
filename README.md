@@ -10,7 +10,6 @@
 ###
 
 <img align="right" height="150" src="https://giffiles.alphacoders.com/480/48044.gif"  />
-<img align="right" height="150" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-injck&psig=AOvVaw0_TClV_o98E43pS20bxyys&ust=1734774422213000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDPgr-ItooDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-injck&psig=AOvVaw0_TClV_o98E43pS20bxyys&ust=1734774422213000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDPgr-ItooDFQAAAAAdAAAAABAE)"  />
 ###
 
 <div align="left">
@@ -37,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/NeonSamurai144hz/NeonSamurai144hz/output/snake.svg" alt="Snake animation" />
 
 ###
