@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/83ae5f68-b7c7-46dd-8e35-79bc595a6ac9)<h2 align="left">Hi 👋! My name is Nikita and I'm a full-stack developer, from CODA</h2>
+<h2 align="center">Hi 👋! My name is Nikita and I'm a full-stack developer, from CODA</h2>
 
 ###
 
@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NeonSamurai144hz/NeonSamurai144hz/output/snake.svg" alt="Snake animation" />
+
 
 ###
