@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://giffiles.alphacoders.com/480/48044.gif"  />
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
