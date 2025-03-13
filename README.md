@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="200" />
+  <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="400" />
 </p>
 
 ## 🛠 Skills & Technologies
