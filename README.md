@@ -6,8 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" />
 </p>
 
-<p align="right">
-  <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="150" />
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="200" />
 </p>
 
 ## 🛠 Skills & Technologies
@@ -38,12 +38,6 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://discord.com/">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" alt="Discord" height="35" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" height="35" />
-  </a>
   <a href="https://www.linkedin.com/in/your-linkedin-profile">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="35" />
   </a>
