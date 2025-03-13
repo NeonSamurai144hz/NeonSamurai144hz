@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Nikita</h2>
-<h3 align="center">Full-Stack Developer from CODA</h3>
+<h3 align="center">Junior Full-Stack Developer</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NeonSamurai144hz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="GitHub Stats" height="150" />
