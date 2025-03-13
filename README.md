@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" />
 </p>
 
-<p align="right">
+<p align="center">
   <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="150" />
 </p>
 
@@ -33,7 +33,7 @@
   <a href="mailto:niki.bobeica@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/nikita-bobeica-498ab5327/)">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="35" />
   </a>
 </p>
