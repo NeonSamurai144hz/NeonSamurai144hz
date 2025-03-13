@@ -27,11 +27,11 @@
 ## 🔥 Recent Projects
 
 <p align="center">
-  <a href="https://github.com/NeonSamurai144hz/new-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=new-project-1&theme=transparent" alt="New Project 1" />
+  <a href="https://github.com/NeonSamurai144hz/FarmMyFarm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=new-project-1&theme=transparent" alt="Farming game" />
   </a>
-  <a href="https://github.com/NeonSamurai144hz/new-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=new-project-2&theme=transparent" alt="New Project 2" />
+  <a href="https://github.com/NeonSamurai144hz/projet-fullstack-nikita">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=new-project-2&theme=transparent" alt="E-commerce site" />
   </a>
 </p>
 
