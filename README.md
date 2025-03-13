@@ -28,10 +28,10 @@
 
 <p align="center">
   <a href="https://github.com/NeonSamurai144hz/FarmMyFarm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=new-project-1&theme=transparent" alt="Farming game" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=FarmMyFarm&theme=transparent" alt="Farming game" />
   </a>
   <a href="https://github.com/NeonSamurai144hz/projet-fullstack-nikita">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=new-project-2&theme=transparent" alt="E-commerce site" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=projet-fullstack-nikita&theme=transparent" alt="E-commerce site" />
   </a>
 </p>
 
