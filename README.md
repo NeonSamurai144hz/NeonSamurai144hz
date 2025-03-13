@@ -2,12 +2,11 @@
 <h3 align="center">Full-Stack Developer from CODA</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NeonSamurai144hz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="GitHub Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="400" />
+  <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="450" />
 </p>
 
 ## 🛠 Skills & Technologies
