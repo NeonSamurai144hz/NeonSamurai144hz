@@ -1,5 +1,9 @@
-<h2 align="center">Welcome to my github profile</h2>
-<h3 align="center">my name is Nikita and I am a junior Full-Stack Developer</h3>
+<h2 align="center">Hello and welcome to my github profile</h2>
+<h3 align="center">my name is Nikita and I am a passionate junior Full-Stack Developer</h3>
+
+**Currently Learning:** 
+**Interests:** Web development, game dev, and vast new technologies
+**Goal:** To become and experienced and competent developer in the field
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" width="400" />
@@ -25,28 +29,36 @@
 
 ## My Recent Projects
 
-<p align="center">
-  <a href="https://github.com/NeonSamurai144hz/FarmMyFarm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=FarmMyFarm&theme=transparent" alt="Farming game" />
-  </a>
-  <a href="https://github.com/NeonSamurai144hz/projet-fullstack-nikita">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=projet-fullstack-nikita&theme=transparent" alt="E-commerce site" />
-  </a>
-  <a href="https://github.com/NeonSamurai144hz/projet-sokoban.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=projet-sokoban.git&theme=transparent" alt="Sokoban game" />
-  </a>
-  <a href="https://github.com/TheKings294/SUNGOD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKings294&repo=SUNGOD&theme=transparent" alt="Gamejam 2D top view game" />
-  </a>
-  <a href="https://github.com/FazonPlay/the8siders">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=FazonPlay&repo=the8siders&theme=transparent" alt="OCR text recognition project" />
-  </a>
-</p>
+## My Recent Projects
+
+### [FarmMyFarm](https://github.com/NeonSamurai144hz/FarmMyFarm)
+A 2D farming simulation game where the player manages crops and livestock.  
+**Tech Stack:** Java, Java Fx
+
+### [Projet Fullstack Nikita](https://github.com/NeonSamurai144hz/projet-fullstack-nikita)
+An e-commerce platform that allows users to browse and purchase products dynamically.  
+**Tech Stack:** PHP, JavaScript, HTML, CSS
+
+### [Projet Sokoban](https://github.com/NeonSamurai144hz/projet-sokoban.git)
+A Sokoban puzzle game built in C. Players solve puzzles by pushing boxes.
+**Tech Stack:** C
+
+### [SUNGOD](https://github.com/TheKings294/SUNGOD)
+A 2D top-down action game made for a game jam where you have to escape multiple levels.  
+**Tech Stack:** Godot Engine, GDScript
+
+### [The8siders](https://github.com/FazonPlay/the8siders)
+An OCR-powered text recognition project that processes images and extracts readable text.  
+**Tech Stack:** Python, OpenCV, Tesseract OCR, EasyOCR
+
 
 ## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-bobeica-498ab5327/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" height="40" />
+  </a>
+    <a href="mailto:nikita.bobeica@coda-student.school">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Email" height="40" />
   </a>
 </p>
