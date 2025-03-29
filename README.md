@@ -3,11 +3,13 @@
 
 **Currently Learning:** Enhancing my skills in game development, app development, web development, and design—constantly exploring new technologies
 and improving my craft while staying curious and innovative.
-&nbsp;
+
+
 **Interests:** Web development, game dev, and new technologies
-&nbsp;
+
+
 **Goal:** To become an experienced and competent developer
-&nbsp;
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" width="400" />
