@@ -32,9 +32,15 @@
   <a href="https://github.com/NeonSamurai144hz/projet-fullstack-nikita">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=projet-fullstack-nikita&theme=transparent" alt="E-commerce site" />
   </a>
+  <a href="https://github.com/NeonSamurai144hz/projet-sokoban.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NeonSamurai144hz&repo=projet-sokoban.git&theme=transparent" alt="Sokoban game" />
+  </a>
+  <a href="https://github.com/TheKings294/SUNGOD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheKings294&repo=SUNGOD&theme=transparent" alt="Gamejam 2D top view game" />
+  </a>
 </p>
 
-## 📫 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nikita-bobeica-498ab5327/">
