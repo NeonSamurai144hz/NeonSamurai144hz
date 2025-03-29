@@ -1,5 +1,4 @@
-<h2 align="center">Hello and welcome to my github profile</h2>
-<h3 align="center">my name is Nikita and I am a passionate junior Full-Stack Developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+and+welcome+to+my+github+profile;my+name+is+Nikita+and+I+am+a+passionate+junior+Full-Stack+Developer)](https://git.io/typing-svg)
 
 **Currently Learning:** Enhancing my skills in game development, app development, web development, and design—constantly exploring new technologies
 and improving my craft while staying curious and innovative.
