@@ -1,9 +1,10 @@
 <h2 align="center">Hello and welcome to my github profile</h2>
 <h3 align="center">my name is Nikita and I am a passionate junior Full-Stack Developer</h3>
 
-**Currently Learning:** 
-**Interests:** Web development, game dev, and vast new technologies
-**Goal:** To become and experienced and competent developer in the field
+**Currently Learning:** Enhancing my skills in game development, app development, web development, and design—constantly exploring new technologies
+and improving my craft while staying curious and innovative.
+**Interests:** Web development, game dev, and new technologies
+**Goal:** To become an experienced and competent developer
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" width="400" />
@@ -26,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="UI/UX (Figma)" height="50" />
 </p>
-
-## My Recent Projects
 
 ## My Recent Projects
 
