@@ -18,6 +18,10 @@ and improving my craft while staying curious and innovative.
   <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="450" />
 </p>
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffdd00&border_color=ffffff)](https://open.spotify.com/user/evanescence)
+</div>
+
 ## Skills & Technologies
 
 <p align="center">
