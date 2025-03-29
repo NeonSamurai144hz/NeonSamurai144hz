@@ -2,8 +2,7 @@
 <h3 align="center">Junior Full-Stack Developer</h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NeonSamurai144hz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonSamurai144hz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" alt="Top Languages" height="150" width="400" />
 </p>
 
 <p align="center">
