@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Nikita</h2>
+<h2 align="center">Welcome to my github profile</h2>
 <h3 align="center">Junior Full-Stack Developer</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="450" />
 </p>
 
-## 🛠 Skills & Technologies
+## Skills & Technologies
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" />
@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="UI/UX (Figma)" height="30" />
 </p>
 
-## 🔥 Recent Projects
+## Recent Projects
 
 <p align="center">
   <a href="https://github.com/NeonSamurai144hz/FarmMyFarm">
