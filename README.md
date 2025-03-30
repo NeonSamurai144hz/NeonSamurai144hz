@@ -17,17 +17,10 @@ and improving my craft while staying curious and innovative.
 <p align="center">
   <img src="https://giffiles.alphacoders.com/480/48044.gif" alt="Animated GIF" height="200" width="450" />
 </p>
-<!-- evenescence -->
+
 &nbsp;<div align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=ffdd00&border_color=ffffff)](https://open.spotify.com/user/evanescence)
 </div>
-
-<p align="center">
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/andyruwruw/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
-  </a>
 </p>
 
 ## Skills & Technologies
