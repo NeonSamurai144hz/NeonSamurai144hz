@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+and+welcome+to+my+github+profile+yes;my+name+is+Nikita+and+I+am+a+passionate+junior+Full-Stack+Developer+nice)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+and+welcome+to+my+github+profile+yes;my+name+is+Nikita+and+I+am+a+passionate+junior+Full-Stack+Developer+nice+test)](https://git.io/typing-svg)
 
 **Currently Learning:** Enhancing my skills in game development, app development, web development, and design—constantly exploring new technologies
 and improving my craft while staying curious and innovative.
